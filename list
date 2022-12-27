@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Song List</title>
+    <style>
+      body {
+        margin-left: 600px;
+        font-family: "Helvetica";
+      }
+
+      h1 {
+        font-size: 150px;
+      }
+
+      li {
+        font-size: 35px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Songs</h1>
+
+    <ul>
+      <li><a href="/media/ubuntu/5E4849214848F8F3/sb-stuff/setar-html/notes/aziz joon">Aziz Joon</a></li>
+      <li><a href="/media/ubuntu/5E4849214848F8F3/sb-stuff/setar-html/notes/daranegan">Daranegan</a></li>
+      <li><a href="/media/ubuntu/5E4849214848F8F3/sb-stuff/setar-html/notes/gol e gandom">Gol e Gandom</a></li>
+      <li><a href="/media/ubuntu/5E4849214848F8F3/sb-stuff/setar-html/notes/pish daramade bayate isfahan">Pish Daramade Bayate Isfahan</a></li>
+      <li><a href="/media/ubuntu/5E4849214848F8F3/sb-stuff/setar-html/notes/soltane ghalbha">Soltane Ghalbha</a></li>
+    </ul>
+  </body>
+</html>
