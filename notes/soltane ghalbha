@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" href="icon.jpeg">
+    <title>Soltane Ghalbha</title>
+  <style>
+    body {
+      margin: 100px;
+      font-family: Helvetica;
+    }
+
+    h1 {
+      font-size: 120px;
+      position: relative;
+      left: 250px;
+    }
+
+    img {
+      position: relative;
+      bottom: 100px;
+			left: 100px;
+    }
+  </style>
+  </head>
+  <body>
+    <h1>Soltan e Ghalbha</h1>
+    <img src="soltane-ghalba.png" width="1200px">
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" href="icon.jpeg">
+    <title>Daranegan</title>
+  <style>
+    body {
+      margin: 100px;
+      font-family: Helvetica;
+    }
+
+    h1 {
+      font-size: 120px;
+      position: relative;
+      left: 400px;
+    }
+
+    img {
+      position: relative;
+      bottom: 100px;
+    }
+  </style>
+  </head>
+  <body>
+    <h1>Daranegan</h1>
+    <img src="daranegan.png">
+  </body>
+</html>

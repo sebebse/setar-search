@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Setar Notes</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" href="icon.jpeg">
+</head>
+
+<script>
+  function test() {
+    var songSearch = document.getElementById('textbox');
+    var songValue = songSearch.value;
+    window.location.href='notes/'+songValue;
+  }
+</script>
+
+<body>
+  <h1>Shayan's Setar Note Searcher</h1>
+  <img src="images.png">
+  <div id="setar"><img src="setar.jpeg" width="300px"></div>
+  <div id="searchHere">
+    <h2>Search here</h2>
+    <input id="textbox">
+    <input id="button" type="image" value="Search" onclick="return test();">
+  </div>
+
+  <div id="list">
+    <p>For a list of songs, click <a href="list">here</a></p>
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" href="icon.jpeg">
+    <title>Aziz Joon</title>
+  <style>
+    body {
+      margin: 100px;
+      font-family: Helvetica;
+    }
+
+    h1 {
+      font-size: 120px;
+
+    }
+
+    img {
+      position: relative;
+      bottom: 100px;
+      left: 200px;
+    }
+  </style>
+  </head>
+  <body>
+    <h1>Kieh Kieh dar Meezaneh</h1>
+    <img src="kieh-kieh.png">
+  </body>
+</html>

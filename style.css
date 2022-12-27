@@ -1,0 +1,42 @@
+body {
+  margin-left: 100px;
+  font-family: 'Helvetica';
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#button {
+  background-color: #226be2;
+  border: none;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: #ffffff;
+  position: relative;
+  bottom: 10px;
+}
+
+#button:hover {
+  background-color: #34e5dc;
+}
+
+#textbox {
+  height: 55px;
+  width: 400px;
+  font-size: 45px;
+}
+
+#setar {
+  position: relative;
+  left: 800px;
+  bottom: 200px;
+}
+
+#searchHere {
+  position: relative;
+  bottom: 150px;
+  left: 300px;
+}
